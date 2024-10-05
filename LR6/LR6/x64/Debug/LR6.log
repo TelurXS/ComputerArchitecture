@@ -1,0 +1,79 @@
+﻿  LR6.cpp
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(8,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(9,3): error C2065: 'lea': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(9,7): error C2146: syntax error: missing ';' before identifier 'EBX'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(9,7): error C2065: 'EBX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(10,3): error C2146: syntax error: missing ';' before identifier 'mov'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(10,3): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(10,7): error C2146: syntax error: missing ';' before identifier 'ECX'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(10,7): error C2065: 'ECX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(11,3): error C2146: syntax error: missing ';' before identifier 'm1'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(11,8): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(11,12): error C2146: syntax error: missing ';' before identifier 'EAX'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(11,12): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(12,3): error C2146: syntax error: missing ';' before identifier 'imul'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(12,3): error C2065: 'imul': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(12,8): error C2146: syntax error: missing ';' before identifier 'X'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(13,3): error C2146: syntax error: missing ';' before identifier 'add'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(13,3): error C2065: 'add': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(13,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(13,7): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(14,3): error C2146: syntax error: missing ';' before identifier 'mov'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(14,3): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(14,7): error C2146: syntax error: missing ';' before identifier 'EDI'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(14,7): error C2065: 'EDI': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(14,12): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(16,3): error C2146: syntax error: missing ';' before identifier 'mov'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(16,3): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(16,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(16,7): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(17,3): error C2146: syntax error: missing ';' before identifier 'imul'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(17,3): error C2065: 'imul': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(17,8): error C2146: syntax error: missing ';' before identifier 'X'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(18,3): error C2146: syntax error: missing ';' before identifier 'imul'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(18,3): error C2065: 'imul': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(18,8): error C2146: syntax error: missing ';' before identifier 'X'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(19,3): error C2146: syntax error: missing ';' before identifier 'sub'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(19,3): error C2065: 'sub': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(19,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(19,7): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(20,3): error C2146: syntax error: missing ';' before identifier 'cdq'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(20,3): error C2065: 'cdq': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(22,3): error C2146: syntax error: missing ';' before identifier 'div'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(22,7): error C2146: syntax error: missing ';' before identifier 'EDI'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(22,3): warning C4551: function call missing argument list
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(22,7): error C2065: 'EDI': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(23,3): error C2146: syntax error: missing ';' before identifier 'shr'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(23,3): error C2065: 'shr': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(23,7): error C2146: syntax error: missing ';' before identifier 'EDI'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(23,7): error C2065: 'EDI': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(24,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(24,3): error C2065: 'cmp': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(24,7): error C2146: syntax error: missing ';' before identifier 'EDI'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(24,7): error C2065: 'EDI': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(24,12): error C2065: 'EDX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(25,3): error C2146: syntax error: missing ';' before identifier 'adc'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(25,3): error C2065: 'adc': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(25,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(25,7): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(26,3): error C2146: syntax error: missing ';' before identifier 'mov'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(26,3): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(26,7): error C2146: syntax error: missing ';' before identifier 'dword'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(26,7): error C2065: 'dword': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(26,13): error C2146: syntax error: missing ';' before identifier 'ptr'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(26,13): error C2065: 'ptr': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(26,17): error C2065: 'EBX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(26,23): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(27,3): error C2146: syntax error: missing ';' before identifier 'add'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(27,3): error C2065: 'add': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(27,7): error C2146: syntax error: missing ';' before identifier 'EBX'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(27,7): error C2065: 'EBX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(28,3): error C2146: syntax error: missing ';' before identifier 'add'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(28,3): error C2065: 'add': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(28,7): error C2146: syntax error: missing ';' before identifier 'X'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(29,3): error C2146: syntax error: missing ';' before identifier 'loop'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(29,3): error C2065: 'loop': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(29,8): error C2146: syntax error: missing ';' before identifier 'm1'
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(29,8): error C2065: 'm1': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR6\LR6\LR6.cpp(30,2): error C2143: syntax error: missing ';' before '}'
