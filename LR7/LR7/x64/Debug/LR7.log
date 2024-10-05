@@ -1,0 +1,43 @@
+﻿  LR7.cpp
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(11,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(13,8): error C2065: 'inc': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(13,12): error C2146: syntax error: missing ';' before identifier 'N'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(14,3): error C2146: syntax error: missing ';' before identifier 'mov'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(14,3): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(14,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(14,7): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(15,3): error C2146: syntax error: missing ';' before identifier 'mul'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(15,3): error C2065: 'mul': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(15,7): error C2143: syntax error: missing ';' before 'constant'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(16,3): error C2146: syntax error: missing ';' before identifier 'mov'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(16,3): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(16,7): error C2146: syntax error: missing ';' before identifier 'P'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(16,10): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(17,3): error C2146: syntax error: missing ';' before identifier 'add'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(17,3): error C2065: 'add': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(17,7): error C2146: syntax error: missing ';' before identifier 'S'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(17,10): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(18,3): error C2146: syntax error: missing ';' before identifier 'mov'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(18,3): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(18,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(18,7): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(19,3): error C2146: syntax error: missing ';' before identifier 'mul'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(19,3): error C2065: 'mul': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(19,7): error C2146: syntax error: missing ';' before identifier 'N'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(20,3): error C2146: syntax error: missing ';' before identifier 'add'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(20,3): error C2065: 'add': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(20,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(20,7): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(21,3): error C2146: syntax error: missing ';' before identifier 'sub'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(21,3): error C2065: 'sub': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(21,7): error C2146: syntax error: missing ';' before identifier 'S'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(21,10): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(22,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(22,3): error C2065: 'cmp': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(22,7): error C2146: syntax error: missing ';' before identifier 'S'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(23,3): error C2146: syntax error: missing ';' before identifier 'jc'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(23,3): error C2065: 'jc': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(23,6): error C2146: syntax error: missing ';' before identifier 'm1'
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(23,6): error C2065: 'm1': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(24,2): error C2143: syntax error: missing ';' before '}'

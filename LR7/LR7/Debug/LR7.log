@@ -1,0 +1,3 @@
+﻿  LR7.cpp
+E:\Projects\C++\ComputerArchitecture\LR7\LR7\LR7.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LR7.vcxproj -> E:\Projects\C++\ComputerArchitecture\LR7\Debug\LR7.exe
