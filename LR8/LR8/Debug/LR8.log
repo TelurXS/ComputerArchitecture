@@ -1,0 +1,3 @@
+﻿  LR8.cpp
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LR8.vcxproj -> E:\Projects\C++\ComputerArchitecture\LR8\Debug\LR8.exe

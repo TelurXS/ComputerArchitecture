@@ -1,0 +1,17 @@
+﻿  LR8.cpp
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(24,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(25,3): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(25,7): error C2146: syntax error: missing ';' before identifier 'ECX'
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(25,7): error C2065: 'ECX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(26,3): error C2146: syntax error: missing ';' before identifier 'lea'
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(26,3): error C2065: 'lea': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(26,7): error C2146: syntax error: missing ';' before identifier 'EBX'
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(26,7): error C2065: 'EBX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(28,3): error C2146: syntax error: missing ';' before identifier 'check_elements'
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(29,3): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(29,7): error C2146: syntax error: missing ';' before identifier 'EAX'
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(29,7): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(30,3): error C2760: syntax error: 'cmp' was unexpected here; expected '{'
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(30,7): error C2065: 'EAX': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR8\LR8\LR8.cpp(31,3): error C2146: syntax error: missing ',' before identifier 'jge'

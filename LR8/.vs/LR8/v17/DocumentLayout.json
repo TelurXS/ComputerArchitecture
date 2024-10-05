@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\C\u002B\u002B\\ComputerArchitecture\\LR8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C99694-8C37-4550-B2DB-3312EE544A0B}|LR8\\LR8.vcxproj|E:\\Projects\\C\u002B\u002B\\ComputerArchitecture\\LR8\\LR8\\LR8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7C99694-8C37-4550-B2DB-3312EE544A0B}|LR8\\LR8.vcxproj|solutionrelative:LR8\\LR8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR8.cpp",
+              "DocumentMoniker": "E:\\Projects\\C\u002B\u002B\\ComputerArchitecture\\LR8\\LR8\\LR8.cpp",
+              "RelativeDocumentMoniker": "LR8\\LR8.cpp",
+              "ToolTip": "E:\\Projects\\C\u002B\u002B\\ComputerArchitecture\\LR8\\LR8\\LR8.cpp",
+              "RelativeToolTip": "LR8\\LR8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T13:52:20.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
