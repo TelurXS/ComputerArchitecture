@@ -1,0 +1,5 @@
+﻿  LR11.cpp
+E:\Projects\C++\ComputerArchitecture\LR11\LR11\LR11.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Projects\C++\ComputerArchitecture\LR11\LR11\LR11.cpp(7,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Projects\C++\ComputerArchitecture\LR11\LR11\LR11.cpp(7,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LR11.vcxproj -> E:\Projects\C++\ComputerArchitecture\LR11\Debug\LR11.exe

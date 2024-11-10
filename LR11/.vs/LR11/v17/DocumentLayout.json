@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\C\u002B\u002B\\ComputerArchitecture\\LR11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C9071E-87C0-44D8-A904-95E3AB9793BE}|LR11\\LR11.vcxproj|E:\\Projects\\C\u002B\u002B\\ComputerArchitecture\\LR11\\LR11\\LR11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C9071E-87C0-44D8-A904-95E3AB9793BE}|LR11\\LR11.vcxproj|solutionrelative:LR11\\LR11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR11.cpp",
+              "DocumentMoniker": "E:\\Projects\\C\u002B\u002B\\ComputerArchitecture\\LR11\\LR11\\LR11.cpp",
+              "RelativeDocumentMoniker": "LR11\\LR11.cpp",
+              "ToolTip": "E:\\Projects\\C\u002B\u002B\\ComputerArchitecture\\LR11\\LR11\\LR11.cpp",
+              "RelativeToolTip": "LR11\\LR11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T14:31:13.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
