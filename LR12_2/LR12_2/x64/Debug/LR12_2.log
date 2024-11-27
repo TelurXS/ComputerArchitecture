@@ -1,0 +1,47 @@
+﻿  LR12_2.cpp
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(7,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(8,9): error C2065: 'finit': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(10,9): error C2146: syntax error: missing ';' before identifier 'movsd'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(10,9): error C2065: 'movsd': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(10,15): error C2146: syntax error: missing ';' before identifier 'xmm0'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(10,15): error C2065: 'xmm0': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(12,9): error C2760: syntax error: 'loop_start' was unexpected here; expected '{'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(12,19): error C2059: syntax error: ':'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(32,15): error C2065: 'Функція': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(32,30): error C2146: syntax error: missing ';' before identifier 'для'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(32,30): error C2065: 'для': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(32,37): error C2146: syntax error: missing ';' before identifier 'виведення'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(32,37): error C2065: 'виведення': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(32,56): error C2146: syntax error: missing ';' before identifier 'результату'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(32,56): error C2065: 'результату': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(33,13): error C2146: syntax error: missing ';' before identifier 'print_result'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(34,9): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(34,13): error C2146: syntax error: missing ';' before identifier 'rdi'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(34,13): error C2065: 'rdi': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(34,18): error C2065: 'fmt': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(35,13): error C2146: syntax error: missing ';' before identifier 'mov'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(35,13): error C2065: 'mov': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(35,17): error C2146: syntax error: missing ';' before identifier 'rsi'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(35,17): error C2065: 'rsi': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(35,22): error C2065: 'xmm1': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(36,13): error C2146: syntax error: missing ';' before identifier 'call'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(36,13): error C2065: 'call': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(36,18): error C2146: syntax error: missing ';' before identifier 'printf'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(37,13): error C2146: syntax error: missing ';' before identifier 'ret'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(36,18): warning C4551: function call missing argument list
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(37,13): error C2065: 'ret': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(40,13): error C2146: syntax error: missing ';' before identifier 'fmt'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(40,13): error C2065: 'fmt': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(40,17): error C2146: syntax error: missing ';' before identifier 'db'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(40,17): error C2065: 'db': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(40,20): error C2143: syntax error: missing ';' before 'string'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(41,13): error C2146: syntax error: missing ';' before identifier 'step'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(41,13): error C2065: 'step': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(41,18): error C2146: syntax error: missing ';' before identifier 'dq'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(41,18): error C2065: 'dq': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(41,21): error C2143: syntax error: missing ';' before 'constant'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(42,13): error C2146: syntax error: missing ';' before identifier 'x'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(42,15): error C2146: syntax error: missing ';' before identifier 'dq'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(42,15): error C2065: 'dq': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(42,18): error C2143: syntax error: missing ';' before 'constant'
+E:\Projects\C++\ComputerArchitecture\LR12_2\LR12_2\LR12_2.cpp(43,5): error C2143: syntax error: missing ';' before '}'

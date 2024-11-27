@@ -1,0 +1,75 @@
+﻿  LR12_1.cpp
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(9,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(10,9): error C2065: 'finit': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(12,9): error C2146: syntax error: missing ';' before identifier 'fld'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(12,9): error C2065: 'fld': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(12,13): error C2146: syntax error: missing ';' before identifier 'a'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(13,9): error C2146: syntax error: missing ';' before identifier 'fmul'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(13,9): error C2065: 'fmul': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(13,14): error C2146: syntax error: missing ';' before identifier 'st'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(13,14): error C2065: 'st': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(13,18): error C2065: 'st': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(14,9): error C2146: syntax error: missing ';' before identifier 'fld1'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(14,9): error C2065: 'fld1': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(15,9): error C2146: syntax error: missing ';' before identifier 'fld'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(15,9): error C2065: 'fld': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(15,13): error C2146: syntax error: missing ';' before identifier 'st'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(15,13): error C3861: 'st': identifier not found
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(16,9): error C2146: syntax error: missing ';' before identifier 'fadd'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(16,9): error C2065: 'fadd': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(16,14): error C2146: syntax error: missing ';' before identifier 'st'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(16,14): error C3861: 'st': identifier not found
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(16,21): error C2065: 'st': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(17,9): error C2146: syntax error: missing ';' before identifier 'fld'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(17,9): error C2065: 'fld': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(17,13): error C2146: syntax error: missing ';' before identifier 'b'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(18,9): error C2146: syntax error: missing ';' before identifier 'fadd'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(18,9): error C2065: 'fadd': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(20,9): error C2146: syntax error: missing ';' before identifier 'fstp'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(20,9): error C2065: 'fstp': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(20,14): error C2146: syntax error: missing ';' before identifier 'temp'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(22,9): error C2146: syntax error: missing ';' before identifier 'fld1'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(22,9): error C2065: 'fld1': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(23,9): error C2146: syntax error: missing ';' before identifier 'fld'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(23,9): error C2065: 'fld': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(23,13): error C2146: syntax error: missing ';' before identifier 'temp'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(24,9): error C2146: syntax error: missing ';' before identifier 'fdiv'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(24,9): error C2065: 'fdiv': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(26,9): error C2146: syntax error: missing ';' before identifier 'fstp'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(26,9): error C2065: 'fstp': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(26,14): error C2146: syntax error: missing ';' before identifier 'temp'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(28,9): error C2146: syntax error: missing ';' before identifier 'fld'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(28,9): error C2065: 'fld': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(28,13): error C2146: syntax error: missing ';' before identifier 'temp'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(29,9): error C2146: syntax error: missing ';' before identifier 'fmul'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(29,9): error C2065: 'fmul': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(29,14): error C2146: syntax error: missing ';' before identifier 'st'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(29,14): error C2065: 'st': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(29,18): error C2065: 'st': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(30,9): error C2146: syntax error: missing ';' before identifier 'fld1'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(30,9): error C2065: 'fld1': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(31,9): error C2146: syntax error: missing ';' before identifier 'fsub'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(31,9): error C2065: 'fsub': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(32,9): error C2146: syntax error: missing ';' before identifier 'fsqrt'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(32,9): error C2065: 'fsqrt': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(33,9): error C2146: syntax error: missing ';' before identifier 'fld'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(33,9): error C2065: 'fld': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(33,13): error C2146: syntax error: missing ';' before identifier 'temp'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(34,9): error C2146: syntax error: missing ';' before identifier 'fdiv'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(34,9): error C2065: 'fdiv': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(35,9): error C2146: syntax error: missing ';' before identifier 'fpatan'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(35,9): error C2065: 'fpatan': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(37,9): error C2146: syntax error: missing ';' before identifier 'fld1'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(37,9): error C2065: 'fld1': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(38,9): error C2146: syntax error: missing ';' before identifier 'fld1'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(38,9): error C2065: 'fld1': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(39,9): error C2146: syntax error: missing ';' before identifier 'fadd'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(39,9): error C2065: 'fadd': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(40,9): error C2146: syntax error: missing ';' before identifier 'fdiv'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(40,9): error C2065: 'fdiv': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(41,9): error C2146: syntax error: missing ';' before identifier 'fmul'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(41,9): error C2065: 'fmul': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(43,9): error C2146: syntax error: missing ';' before identifier 'fstp'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(43,9): error C2065: 'fstp': undeclared identifier
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(43,14): error C2146: syntax error: missing ';' before identifier 'y'
+E:\Projects\C++\ComputerArchitecture\LR12_1\LR12_1\LR12_1.cpp(44,5): error C2143: syntax error: missing ';' before '}'
